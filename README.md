@@ -100,7 +100,7 @@ the beginning of the blockchain using the `./bin/bootstrap.rb` command.
 
 Toshi can be deployed directly to Heroku:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/coinbase/toshi)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/andrux2016/toshi)
 
 After it is deployed, you can start syncing with the following command:
 
